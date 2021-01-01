@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VKİ</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="boy_tv">Boy</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo_tv">İdeal Kilo</string>
+    <string name="durum">Durum</string>
+    <string name="zayif">Zayıf Durumdasınız</string>
+    <string name="durum_ideal">İdeal Kilodasınız.</string>
+    <string name="durum_idealden_fazla">Normalden Fazla Kilodasınız.</string>
+    <string name="durum_fazla_kilolu">Fazla Kilolu.</string>
+    <string name="durum_obez">Obezite</string>
+    <string name="durum_doktora">Doktor Tedavisi</string>
+</resources>
